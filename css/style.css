@@ -10,3 +10,12 @@ body
       background-color: lightblue;
     }
 }
+
+#welcome-section
+{
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    background-color: burlywood;
+    height: 100vh;
+}
