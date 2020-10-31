@@ -19,3 +19,6 @@ body
     background-color: burlywood;
     height: 100vh;
 }
+#navbar{
+  position: fixed;
+}
